@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<w:glossaryDocument mc:Ignorable="w14 w15 w16se w16cid wp14" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+	<w:docParts>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=";)"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{DF27AE7C-7857-4A1F-BFD2-BB97579E2BB3}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F609"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😉</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=";-)"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{0A0F833A-9EDA-41B5-B228-E3B011EFD909}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F609"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😉</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":-("/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{D53E7393-1751-40A2-BEF1-DABB343ADEB8}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="2639"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>☹</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":("/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{8F22195E-E02B-49FC-92B5-3B4130DF2C4D}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="2639"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>☹</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":-|"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{2200C43D-C8B8-48C6-B885-5FFD7620F98D}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F610"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😐</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":|"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{9B48028A-C36B-43FE-91DE-920274C499BA}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F610"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😐</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":)"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{ECF14474-C879-49AF-996D-F6737A76E514}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F60A"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😊</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val=":-)"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{131C7C56-92D4-40BC-A056-08B337F9C1A9}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:rPr>
+							<mc:AlternateContent>
+								<mc:Choice Requires="w16se"/>
+								<mc:Fallback>
+									<w:rFonts w:ascii="Segoe UI Emoji" w:eastAsia="Segoe UI Emoji" w:hAnsi="Segoe UI Emoji" w:cs="Segoe UI Emoji"/>
+								</mc:Fallback>
+							</mc:AlternateContent>
+						</w:rPr>
+						<mc:AlternateContent>
+							<mc:Choice Requires="w16se">
+								<w16se:symEx w16se:font="Segoe UI Emoji" w16se:char="1F60A"/>
+							</mc:Choice>
+							<mc:Fallback>
+								<w:t>😊</w:t>
+							</mc:Fallback>
+						</mc:AlternateContent>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val="&lt;=&gt;"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{CF7C2D9A-9900-417F-9D8D-90C667853B2C}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:sym w:font="Wingdings" w:char="F0F3"/>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val="==&gt;"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{9AE6A745-166F-46B0-A019-0710F0CB2D29}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:sym w:font="Wingdings" w:char="F0E8"/>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val="&lt;=="/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{0CBAE515-959C-4928-B5A9-9CFAAFF9FA4C}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:sym w:font="Wingdings" w:char="F0E7"/>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val="--&gt;"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{7602DE3F-7756-49DC-88DD-D66D51630109}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:sym w:font="Wingdings" w:char="F0E0"/>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+		<w:docPart>
+			<w:docPartPr>
+				<w:name w:decorated="1" w:val="&lt;--"/>
+				<w:category>
+					<w:name w:val="General"/>
+					<w:gallery w:val="default"/>
+				</w:category>
+				<w:types>
+					<w:type w:val="autoExp"/>
+					<w:type w:val="speller"/>
+				</w:types>
+				<w:behaviors>
+					<w:behavior w:val="content"/>
+				</w:behaviors>
+				<w:guid w:val="{A356EDE9-F86B-432B-92AA-64F08BB6344A}"/>
+			</w:docPartPr>
+			<w:docPartBody>
+				<w:p>
+					<w:pPr>
+						<w:pStyle w:val="AutoCorrect"/>
+					</w:pPr>
+					<w:r>
+						<w:sym w:font="Wingdings" w:char="F0DF"/>
+					</w:r>
+				</w:p>
+			</w:docPartBody>
+		</w:docPart>
+	</w:docParts>
+</w:glossaryDocument>
